@@ -1,8 +1,7 @@
-import React,{useState}from 'react'
+import React from 'react'
 import I18n from './../../utils/I18n'
 function Home() {
-    const usersCount=9;
-   
+    const usersCount=9;  
   return (
     <div>
         <h1>{I18n("wlcmmsg")}</h1>
