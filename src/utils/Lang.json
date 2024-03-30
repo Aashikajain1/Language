@@ -1,0 +1,20 @@
+{
+    "en": {
+        "wlcmmsg": "WELCOME !!!",
+        "msgtwo": "I hope You are Doing Well",
+        "msgthree":"Good Day" ,
+        "msgfour":"<stucount>Are learning react"
+    },
+    "mr": {
+        "wlcmmsg": "स्वागत आहे !",
+        "msgtwo": "मला आशा आहे की तू ठीक आहेस.",
+        "msgthree": "शुभ दिवस ...",
+        "msgfour": "<stucount>रिएक्ट शिकत आहेत"
+    },
+    "hi": {
+        "wlcmmsg": "स्वागत है !",
+        "msgtwo": "मुझे आशा है कि आप अच्छे हैं |",
+        "msgthree": "शुभ दिन",
+        "msgfour": "<stucount> रिएक्ट सीख रहे हैं"
+    }
+}
